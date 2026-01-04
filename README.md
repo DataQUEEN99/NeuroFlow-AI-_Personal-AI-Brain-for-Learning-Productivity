@@ -1,0 +1,2 @@
+# NeuroFlow-AI-_Personal-AI-Brain-for-Learning-Productivity
+A next-generation full-stack AI Personal Operating System (AI-POS) that acts as your persistent digital brain. NeuroFlow AI remembers your goals, tracks learning, executes tasks autonomously, and continuously optimizes your work, study, and life. Built with Next.js, React, Tailwind CSS, FastAPI, and vector memory for intelligent long-term context.
